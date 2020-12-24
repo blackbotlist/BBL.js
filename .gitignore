@@ -1,0 +1,5 @@
+.config/
+.env
+.glitch-assets
+node_modules/
+test/

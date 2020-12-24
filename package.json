@@ -1,0 +1,26 @@
+{
+  "name": "BBL.js",
+  "version": "3.1.4",
+  "description": "Upload BBL info to the official API!",
+  "main": "src/index.js",
+  "keywords": [
+    "api",
+    "black-bot-list",
+    "bot-stats"
+  ],
+  "author": "black-bot-list.tk",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "systeminformation": "^4.26.9"
+  },
+  "devDependencies": {
+    "discord.js": "^12.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackbotlist/BBL.js"
+  },
+  "homepage": "https://black-bot-list.tk/api",
+  "types": "./src/typings/index.d.ts"
+}
