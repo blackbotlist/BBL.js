@@ -149,3 +149,6 @@ client.on("message", async (message) => {
 
 client.login("TOKEN");
 ```
+
+
+# Thanks to Statcord.js for being a good open source npm package that is used here as a Base!
