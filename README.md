@@ -1,6 +1,11 @@
 # bbl.js
 bbl.js is a NPM Package based on Statcord.js to send your Servercount and soon more to https://back-bot-list.tk 's API
 
+## Install
+```bash
+npm i https://github.com/blackbotlist/BBL.js.git
+```
+cuz npm is shity to setup at 3AM
 
 ## Examples of use:
 
