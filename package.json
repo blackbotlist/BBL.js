@@ -1,5 +1,5 @@
 {
-  "name": "BBL.js",
+  "name": "bbl.js",
   "version": "3.1.4",
   "description": "Upload BBL info to the official API!",
   "main": "src/index.js",

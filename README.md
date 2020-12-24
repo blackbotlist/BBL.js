@@ -1,5 +1,5 @@
-# BBL.js
-BBL.js is a NPM Package based on Statcord.js to send your Servercount and soon more to https://back-bot-list.tk 's API
+# bbl.js
+bbl.js is a NPM Package based on Statcord.js to send your Servercount and soon more to https://back-bot-list.tk 's API
 
 
 ## Examples of use:
@@ -8,7 +8,7 @@ BBL.js is a NPM Package based on Statcord.js to send your Servercount and soon m
 ### Normal (Without Sharding)
 
 ```javascript
-const bbl = require("BBL.js");
+const bbl = require("bbl.js");
 const Discord = require("discord.js");
 
 const client = new Discord.Client();
@@ -77,7 +77,7 @@ client.login("TOKEN");
 #### **`sharder.js`**
 ```javascript
     const Discord = require("discord.js");
-    const bbl = require("BBL.js");
+    const bbl = require("bbl.js");
 
     const manager = new Discord.ShardingManager('./bot.js', { token: "TOKEN"});
     // Create BBL sharding client
@@ -111,7 +111,7 @@ client.login("TOKEN");
 #### **`bot.js`**
 ```javascript
 const Discord = require("discord.js");
-const BBL = require("BBL.js");
+const BBL = require("bbl.js");
 
 const client = new Discord.Client();
 /* There is no need to create a BBL client in the bot script,
