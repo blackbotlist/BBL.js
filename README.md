@@ -1,5 +1,5 @@
 # BBL.js
-BBL.js is a NPM Package to send your Servercount and soon more to https://back-bot-list.tk 's API
+BBL.js is a NPM Package based on Statcord.js to send your Servercount and soon more to https://back-bot-list.tk 's API
 
 
 ## Examples of use:
