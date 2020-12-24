@@ -1,6 +1,8 @@
 # BBL.js
+BBL.js is a NPM Package to send your Servercount and soon more to https://back-bot-list.tk 's API
 
-## Example of use:
+
+## Examples of use:
 
 
 ### Normal (Without Sharding)
